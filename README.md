@@ -47,6 +47,7 @@ Sentiment_Analysis/
 |-- templates/
     |-- index.html # main page
 |-- server.py # main flask application which deploys the web application
+|-- test_sentiment_analysis.py # testing for sentiment_analysis function
 │-- README.md  # Project documentation
 │-- requirements.txt  # List of dependencie
 ```
